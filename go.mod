@@ -1,4 +1,4 @@
-module github.com/HydroProtocol/hydro-sdk-backend
+module github.com/NEO2756/exonomy-sdk-backend
 
 require (
 	github.com/btcsuite/btcd v0.0.0-20190115013929-ed77733ec07d
